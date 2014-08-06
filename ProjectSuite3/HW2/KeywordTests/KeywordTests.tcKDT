@@ -26,7 +26,7 @@
 		<Node name="settings">
 			<Prp name="settingsversion" type="S" value="7.50"/>
 		</Node>
-		<Prp name="signature" type="S" value="{30501691-969F-4007-923F-BA4459E51E6A}"/>
+		<Prp name="signature" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
 		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>

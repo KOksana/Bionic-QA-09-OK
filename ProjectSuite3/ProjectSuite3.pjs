@@ -29,21 +29,21 @@
 			</Node>
 		</Node>
 		<Node name="analysis">
-			<Prp name="key" type="S" value="{B384661B-C676-43CC-AA78-70E4F0B67B2C}"/>
+			<Prp name="key" type="S" value="{05BF3E32-1E58-46B8-B824-131AB8113F84}"/>
 		</Node>
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Project1\HW1.mds"/>
+					<Prp name="relpath" type="S" value="HW2\HW2.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{13ACF2E1-5DB4-4F75-99A8-5C85D80F1245}"/>
+				<Prp name="key" type="S" value="{DE3D8879-A932-4D79-962C-89D1FCBF5244}"/>
 				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 				<Prp name="typename" type="S" value="Project"/>
 			</Node>
 		</Node>
 		<Node name="files">
-			<Node name="project1\hw1.mds"/>
+			<Node name="hw2\hw2.mds"/>
 		</Node>
 		<Node name="folders">
 			<Node name="folders"/>
@@ -54,7 +54,7 @@
 				<Prp name="type" type="I" value="5"/>
 				<Prp name="value" type="S" value="Log"/>
 			</Node>
-			<Prp name="key" type="S" value="{FF021EED-EEBC-425B-9273-3865BD51E098}"/>
+			<Prp name="key" type="S" value="{A36D02E1-AC4B-4862-9553-CA6A9F9CE07B}"/>
 			<Prp name="settingsversion" type="S" value="7.50"/>
 		</Node>
 		<Node name="test data">
@@ -63,17 +63,17 @@
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="0"/>
-					<Prp name="key" type="S" value="{13ACF2E1-5DB4-4F75-99A8-5C85D80F1245}"/>
+					<Prp name="key" type="S" value="{DE3D8879-A932-4D79-962C-89D1FCBF5244}"/>
 					<Prp name="stoponerror" type="B" value="0"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>
-			<Prp name="key" type="S" value="{397EC03F-1850-40A8-B944-37DD3813804E}"/>
+			<Prp name="key" type="S" value="{6684E7C2-DEC9-46E9-8DBF-49FE5FA64643}"/>
 		</Node>
 		<Node name="variables">
-			<Prp name="key" type="S" value="{87801CE5-DC94-413E-8582-7B4DA61D150A}"/>
+			<Prp name="key" type="S" value="{E4A3E3FB-FB1A-4CDC-9DAE-E93D9FBA1631}"/>
 		</Node>
-		<Prp name="key" type="S" value="{4069C12D-D3F2-419F-B69C-AA01F3251B6A}"/>
+		<Prp name="key" type="S" value="{F877A7B6-CD35-4CE8-ABB7-1828C1DE339D}"/>
 		<Prp name="signature" type="S" value="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}"/>
 		<Prp name="version" type="S" value="7.0"/>
 	</Node>

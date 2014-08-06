@@ -20,16 +20,13 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{20c1a7e9-4531-4e33-825b-1b2577f7f46a}">
-				<Node name="{317bd593-2931-4236-80dc-e47d1b1a52ae}">
-					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
-				</Node>
-				<Node name="{d442ab23-b357-4457-a2ef-dec6d160905a}">
-					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+			<Node name="{1f43cfca-66e9-4d6c-a9ed-342016ca46ca}">
+				<Node name="{557d9244-d86b-4823-9176-9f11b9c12166}">
+					<Prp name="filepath" type="S" value="C:\Documents and Settings\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
 				</Node>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{C773C6A1-5EDF-4C70-ADA8-BE40C43F35CF}"/>
+				<Prp name="key" type="S" value="{394ACFFA-201D-4F81-803E-B9FCF236F905}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
